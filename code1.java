@@ -14,4 +14,7 @@ public class FibonacciExample2{
       System.out.print(n1+" "+n2);    
       printFibonacci(count-2);  
   }  
-}  
+}
+
+//this code is written in the format of java file. Where the task functions are reconfigurized by the formation of task functioning.
+//code1.java this the code generated file operation done.
